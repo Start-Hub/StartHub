@@ -22,6 +22,7 @@ const DBName = `ExampleApiDB`;
 mongoose.connect(`mongodb://localhost:27017/${DBName}`, {
     useNewUrlParser: true,
     useCreateIndex: true,
+    useUnifiedTopology: true,
 });
 
 const connection = mongoose.connection;
