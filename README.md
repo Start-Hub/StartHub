@@ -14,7 +14,7 @@
 <p align="center">
 <img width="420px" src="assets/logo.png" alt="StartHub logo"></img>
 </p><br>
-## Tech stack:
+<h2> Tech stack: </h2>
 
 ### Backend:
 
