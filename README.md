@@ -1,7 +1,20 @@
-# Start-up portal
+<h1 align="center">StartHub</h1></br>
 
-This is the repo where we will be working on together.
+<p align="center">
+:briefcase: A web app which which connects startups together. :computer:
+</p>
+<br>
 
+<p align="center">
+  <a href="#"><img alt="TypeScript Language Badge" src="https://badgen.net/badge/icon/typescript?icon=typescript&label"/></a>
+  <a href="#"><img alt="chrome Badge" src="https://badgen.net/badge/icon/chrome?icon=chrome&label"/></a>
+  <!-- <a href="https://github.com/k4u5h4L"><img alt="k4u5h4L GitHub badge" src="https://badgen.net/badge/GitHub/k4u5h4L?icon=github&color=24292e"/></a> -->
+</p>
+
+<br>
+<p align="center">
+<img width="320px" src="assets/logo.png" alt="StartHub logo"></img>
+</p><br>
 ## Tech stack:
 
 ### Backend:
