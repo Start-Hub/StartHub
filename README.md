@@ -13,7 +13,7 @@
 
 <br>
 <p align="center">
-<img width="320px" src="assets/logo.png" alt="StartHub logo"></img>
+<img width="420px" src="assets/logo.png" alt="StartHub logo"></img>
 </p><br>
 ## Tech stack:
 
@@ -23,7 +23,7 @@
 
 ### Frontend:
 
--   Mainly React, if you guys are comfortable...
+-   Mainly React, with some other third party libraries.
 
 ## Note:
 
